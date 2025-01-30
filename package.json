@@ -1,0 +1,31 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Site built using MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan3232/MERN.git"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "javascript",
+    "reactjs",
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "aws",
+    "tailwind",
+    "materialUI"
+  ],
+  "author": "Rohan Ardhapure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohan3232/MERN/issues"
+  },
+  "homepage": "https://github.com/Rohan3232/MERN#readme"
+}
